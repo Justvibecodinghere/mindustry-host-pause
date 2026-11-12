@@ -1,0 +1,10 @@
+{
+  "name": "host-pause",
+  "displayName": "Multiplayer pausing",
+  "author": "Sammy",
+  "description": "Controlled by host",
+  "version": "1.2.0",
+  "minGameVersion": "160.7",
+  "hidden": true,
+  "iosCompatible": true
+}
